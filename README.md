@@ -1,5 +1,5 @@
 ## 💻 Cybersecurity Learning
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3070048" style='border:none;'></iframe>
+[![](https://tryhackme-badges.s3.amazonaws.com/ROGUEBYTE.png)](https://tryhackme.com/p/ROGUEBYTE)
 
 I'm actively learning through platforms like TryHackMe. Click the badge to view my profile and progress!

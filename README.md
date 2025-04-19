@@ -7,4 +7,4 @@ I'm actively learning through platforms like TryHackMe. Click the badge to view 
 ## 🌐 These are my socials
 🤝 Let's Connect
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/rogue_byte/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogue_byte/)
